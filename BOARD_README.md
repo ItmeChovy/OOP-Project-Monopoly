@@ -54,4 +54,5 @@ Each image should be at least 50x50 pixels in size for best display.
 - More detailed property cards
 - Trading between players
 - Mortgage functionality
-- House and hotel building 
+
+- House and hotel building
